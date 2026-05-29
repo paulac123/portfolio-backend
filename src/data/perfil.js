@@ -9,7 +9,7 @@ const perfil = {
   },
 
   perfilProfesional:
-    "Technical Support Analyst con enfoque en operaciones y automatización en ApifyCloud. Responsable de operación y optimización del área de soporte técnico, atención L1 y L2, creación y gestión de plantillas HSM para WhatsApp/META, monitoreo de incidencias, revisión de logs, diagnóstico de caídas de servicio, desarrollo e implementación de automatizaciones en Zoho Desk (Custom Functions, Workflows, Zia Agents), administración de CRM Zoho Desk Enterprise y análisis de métricas de soporte para informes ejecutivos por cliente.",
+    "Desarrolladora Fullstack con capacidad para construir productos web completos, desde APIs robustas con Node.js y Express hasta interfaces dinámicas con React y Tailwind. Experiencia en bases de datos relacionales, autenticación, gestión de inventario en tiempo real y despliegue en plataformas cloud como AWS, Render y Vercel. Con experiencia en Technical Support, operaciones y automatización, atención L1 y L2, gestión de plantillas HSM para WhatsApp/META, automatizaciones en Zoho Desk (Custom Functions, Workflows, Zia Agents) y análisis de métricas para informes ejecutivos, lo que me da un conocimiento completo del ciclo de desarrollo y operación.",
 
   competencias: {
      backend: "Node.js | Express | TypeScript",
