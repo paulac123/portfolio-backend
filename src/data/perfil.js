@@ -5,20 +5,24 @@ const perfil = {
     ubicacion: "Colombia",
     linkedin: "https://www.linkedin.com/in/paulacruzlozano",
     github: "https://github.com/paulac123",
+    whatsapp: "https://wa.me/573184990091",
     url: "",
   },
 
   perfilProfesional:
     "Desarrolladora Fullstack con capacidad para construir productos web completos, desde APIs robustas con Node.js y Express hasta interfaces dinámicas con React y Tailwind. Experiencia en bases de datos relacionales, autenticación, gestión de inventario en tiempo real y despliegue en plataformas cloud como AWS, Render y Vercel. Con experiencia en Technical Support, operaciones y automatización, atención L1 y L2, gestión de plantillas HSM para WhatsApp/META, automatizaciones en Zoho Desk (Custom Functions, Workflows, Zia Agents) y análisis de métricas para informes ejecutivos, lo que me da un conocimiento completo del ciclo de desarrollo y operación.",
 
+  trabajoActual:
+    "Actualmente, desde Enero de 2026, me desempeño como Ingeniera de Software y Soporte Técnico L2 en Apyfycloud, encargándome de la resolución de incidencias complejas y el desarrollo continuo de soluciones de software para la plataforma.",
+
   competencias: {
-     backend: "Node.js | Express | TypeScript",
-     frontend: "React | Tailwind | HTML | CSS",
-     bases_de_datos: "PostgreSQL | MySQL | MariaDB",
-     devops: "Docker | Git | GitHub | AWS | Azure | Render | Vercel | mi.com.co",
-     herramientas_soporte: "Zoho Desk | Zoho CRM",
-     testing: "Jest | Postman",
-     marketing: "Meta Ads | Google Analytics | Gestión de Redes Sociales",
+    backend: "Node.js | Express | TypeScript",
+    frontend: "React | Tailwind | HTML | CSS",
+    bases_de_datos: "PostgreSQL | MySQL | MariaDB",
+    devops: "Docker | Git | GitHub | AWS | Azure | Render | Vercel | mi.com.co",
+    herramientas_soporte: "Zoho Desk | Zoho CRM",
+    testing: "Jest | Postman",
+    marketing: "Meta Ads | Google Analytics | Gestión de Redes Sociales",
   },
 
 
@@ -27,6 +31,8 @@ const perfil = {
       modalidad: "Freelance",
       ubicacion: "Cali, Colombia",
       rol: "Desarrolladora Fullstack",
+      stack: "Node.js | Express | React | PostgreSQL | Supabase | Vercel | Vite | GitHub | Jest | JWT",
+      dificulta: "En un inicio se manejó la base de datos con Postgres de Render, pero al entrar en suspensión y volver a iniciar se demoraba 32s en cargar. Por ello, decidí realizar la migración a Supabase, lo que optimizó el tiempo de respuesta a 3s.",
       periodo: "2023 – 2025",
       url: "",
       imagen: "",
@@ -45,6 +51,8 @@ const perfil = {
           cliente: "Natural Greatness",
           url: "https://naturalgreatness.com.co/",
           imagen: "https://multimedia-paula.s3.us-east-2.amazonaws.com/natural.jpg",
+          stack: "React | TypeScript | Vite | Tailwind CSS | PapaParse | mi.com.co",
+          dificultad: "El cliente requería que el despliegue se realizara exclusivamente en su proveedor de hosting mi.com.co, donde no habían logrado subir la aplicación previamente. Logré configurar el build y adaptar el proyecto para que funcionara a la perfección en esta infraestructura compartida.",
           logros: [
             "Creé un catálogo digital de alto impacto que combina diseño premium con funcionalidad inteligente.",
             "Implementé integración directa con Google Sheets, permitiendo al cliente actualizar productos en tiempo real sin código.",
@@ -55,12 +63,10 @@ const perfil = {
           cliente: "Distribuidora de Aseo",
           url: "",
           imagen: "",
+          stack: "React | Node.js | Express | TypeScript | Vite | MySQL | Docker | JWT | Tailwind CSS",
           logros: [
-            "Atención de tickets técnicos L1 y L2 en productos.",
-            "Creación y gestión de plantillas HSM para canales WhatsApp/META.",
-            "Monitoreo de incidencias, revisión de logs y diagnóstico de caídas de servicio.",
-            "Desarrollo e implementación de automatizaciones en Zoho Desk con Custom Functions, Workflows y Zia Agents.",
-            "Administración de la plataforma CRM Zoho Desk Enterprise y análisis de métricas de soporte para generación de informes ejecutivos por cliente.",
+            "Desarrollé un sistema ERP tipo comercial para la administración integral de productos y recursos.",
+            "Optimicé los procesos internos, mejorando la toma de decisiones estratégicas en un 70%.",
           ],
         },
       ],
