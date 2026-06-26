@@ -64,6 +64,7 @@ const perfil = {
           url: "",
           imagen: "",
           stack: "React | Node.js | Express | TypeScript | Vite | MySQL | Docker | JWT | Tailwind CSS",
+          dificultad: "Lograr digitalizar toda la información que se manejaba manualmente y resguardar la seguridad de los datos. Para ello, se implementó un sistema de acceso por roles y autenticación con JWT.",
           logros: [
             "Desarrollé un sistema ERP tipo comercial para la administración integral de productos y recursos.",
             "Optimicé los procesos internos, mejorando la toma de decisiones estratégicas en un 70%.",
