@@ -13,7 +13,7 @@ const perfil = {
     "Desarrolladora Fullstack con capacidad para construir productos web completos, desde APIs robustas con Node.js y Express hasta interfaces dinámicas con React y Tailwind. Experiencia en bases de datos relacionales, autenticación, gestión de inventario en tiempo real y despliegue en plataformas cloud como AWS, Render y Vercel. Con experiencia en Technical Support, operaciones y automatización, atención L1 y L2, gestión de plantillas HSM para WhatsApp/META, automatizaciones en Zoho Desk (Custom Functions, Workflows, Zia Agents) y análisis de métricas para informes ejecutivos, lo que me da un conocimiento completo del ciclo de desarrollo y operación.",
 
   trabajoActual:
-    "Actualmente, desde Enero de 2026, me desempeño como Ingeniera de Software y Soporte Técnico L2 en Apyfycloud, encargándome de la resolución de incidencias complejas y el desarrollo continuo de soluciones de software para la plataforma.",
+    "Ingeniería de Software — ApifyCloud : Desarrollo y automatización de sistemas de soporte inteligente sobre Zoho Desk, implementando funciones en Deluge con integración a APIs REST y base de conocimiento. Participación en el desarrollo y mantenimiento del backend de CampaignManager (Node.js), incluyendo diagnóstico de errores en producción, gestión de bases de datos MySQL y análisis de logs en entornos Linux. Integración con plataformas externas como Gupshup, META WhatsApp Business API y Genesys Cloud.",
 
   competencias: {
     backend: "Node.js | Express | TypeScript",
@@ -32,7 +32,7 @@ const perfil = {
       ubicacion: "Cali, Colombia",
       rol: "Desarrolladora Fullstack",
       stack: "Node.js | Express | React | PostgreSQL | Supabase | Vercel | Vite | GitHub | Jest | JWT",
-      dificulta: "En un inicio se manejó la base de datos con Postgres de Render, pero al entrar en suspensión y volver a iniciar se demoraba 32s en cargar. Por ello, decidí realizar la migración a Supabase, lo que optimizó el tiempo de respuesta a 3s.",
+      dificultad: "En un inicio se manejó la base de datos con Postgres de Render, pero al entrar en suspensión y volver a iniciar se demoraba 32s en cargar. Por ello, decidí realizar la migración a Supabase, lo que optimizó el tiempo de respuesta a 3s.",
       periodo: "2023 – 2025",
       url: "",
       imagen: "",
@@ -42,9 +42,9 @@ const perfil = {
           url: "https://fronted-burger-station.vercel.app/",
           imagen: "https://multimedia-paula.s3.us-east-2.amazonaws.com/burger.jpg",
           logros: [
-            " Desarrollé un e-commerce completo con carrito de compras, procesamiento de pedidos y catálogo de productos.",
-            " Implementé gestión de inventario en tiempo real, descontando stock automáticamente por cada venta registrada.",
-            " Diseñé panel administrativo para control de productos, pedidos y niveles de stock con alertas de agotamiento.",
+            "Desarrollé un e-commerce completo con carrito de compras, procesamiento de pedidos y catálogo de productos.",
+            "Implementé gestión de inventario en tiempo real, descontando stock automáticamente por cada venta registrada.",
+            "Diseñé panel administrativo para control de productos, pedidos y niveles de stock con alertas de agotamiento.",
           ],
         },
         {
